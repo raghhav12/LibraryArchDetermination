@@ -1,0 +1,11 @@
+Steps to run Library Architecture Determination app:-
+
+1. Extract project folder.
+2. Open terminal inside project directory.
+3. Run: make.
+4. Connect Android device.
+5. Run: make run.
+6. Launch app.
+7. Press "Click me" button.
+8. Select folder containing .so libraries.
+9. Output appears on screen.
